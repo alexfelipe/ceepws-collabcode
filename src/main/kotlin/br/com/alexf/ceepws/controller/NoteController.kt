@@ -22,9 +22,4 @@ class NoteController {
         return noteRepository.save(note)
     }
 
-    @GetMapping("teste")
-    fun teste(): Note {
-        return noteRepository.findByTitle("Nota de teste")
-    }
-
 }
