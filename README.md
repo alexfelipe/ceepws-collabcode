@@ -2,7 +2,7 @@ The developed Application is an example used in my series of articles about Kotl
 
 ## Article
 
-For more details on the implementation, [check out the article](https://medium.com/collabcode/implementando-uma-crud-api-no-spring-boot-com-kotlin-parte-2-3346312dc956). 
+For more details on the implementation, [check out the article](https://medium.com/collabcode/boas-pr%C3%A1ticas-para-a-implementa%C3%A7%C3%A3o-de-apis-no-spring-boot-com-kotlin-6e77aac110da). 
 
 ## Questions or Suggestion
 
